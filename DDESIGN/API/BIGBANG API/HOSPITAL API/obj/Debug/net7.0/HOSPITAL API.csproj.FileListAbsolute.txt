@@ -1,0 +1,33 @@
+D:\2nd BigBang\UI\DDESIGN\API\BIGBANG API\HOSPITAL API\bin\Debug\net7.0\appsettings.Development.json
+D:\2nd BigBang\UI\DDESIGN\API\BIGBANG API\HOSPITAL API\bin\Debug\net7.0\appsettings.json
+D:\2nd BigBang\UI\DDESIGN\API\BIGBANG API\HOSPITAL API\bin\Debug\net7.0\HOSPITAL API.exe
+D:\2nd BigBang\UI\DDESIGN\API\BIGBANG API\HOSPITAL API\bin\Debug\net7.0\HOSPITAL API.deps.json
+D:\2nd BigBang\UI\DDESIGN\API\BIGBANG API\HOSPITAL API\bin\Debug\net7.0\HOSPITAL API.runtimeconfig.json
+D:\2nd BigBang\UI\DDESIGN\API\BIGBANG API\HOSPITAL API\bin\Debug\net7.0\HOSPITAL API.dll
+D:\2nd BigBang\UI\DDESIGN\API\BIGBANG API\HOSPITAL API\bin\Debug\net7.0\HOSPITAL API.pdb
+D:\2nd BigBang\UI\DDESIGN\API\BIGBANG API\HOSPITAL API\bin\Debug\net7.0\Microsoft.AspNetCore.OpenApi.dll
+D:\2nd BigBang\UI\DDESIGN\API\BIGBANG API\HOSPITAL API\bin\Debug\net7.0\Microsoft.OpenApi.dll
+D:\2nd BigBang\UI\DDESIGN\API\BIGBANG API\HOSPITAL API\bin\Debug\net7.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\2nd BigBang\UI\DDESIGN\API\BIGBANG API\HOSPITAL API\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\2nd BigBang\UI\DDESIGN\API\BIGBANG API\HOSPITAL API\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\2nd BigBang\UI\DDESIGN\API\BIGBANG API\HOSPITAL API\obj\Debug\net7.0\HOSPITAL API.csproj.AssemblyReference.cache
+D:\2nd BigBang\UI\DDESIGN\API\BIGBANG API\HOSPITAL API\obj\Debug\net7.0\HOSPITAL API.GeneratedMSBuildEditorConfig.editorconfig
+D:\2nd BigBang\UI\DDESIGN\API\BIGBANG API\HOSPITAL API\obj\Debug\net7.0\HOSPITAL API.AssemblyInfoInputs.cache
+D:\2nd BigBang\UI\DDESIGN\API\BIGBANG API\HOSPITAL API\obj\Debug\net7.0\HOSPITAL API.AssemblyInfo.cs
+D:\2nd BigBang\UI\DDESIGN\API\BIGBANG API\HOSPITAL API\obj\Debug\net7.0\HOSPITAL API.csproj.CoreCompileInputs.cache
+D:\2nd BigBang\UI\DDESIGN\API\BIGBANG API\HOSPITAL API\obj\Debug\net7.0\HOSPITAL API.MvcApplicationPartsAssemblyInfo.cs
+D:\2nd BigBang\UI\DDESIGN\API\BIGBANG API\HOSPITAL API\obj\Debug\net7.0\HOSPITAL API.MvcApplicationPartsAssemblyInfo.cache
+D:\2nd BigBang\UI\DDESIGN\API\BIGBANG API\HOSPITAL API\obj\Debug\net7.0\staticwebassets\msbuild.HOSPITAL API.Microsoft.AspNetCore.StaticWebAssets.props
+D:\2nd BigBang\UI\DDESIGN\API\BIGBANG API\HOSPITAL API\obj\Debug\net7.0\staticwebassets\msbuild.build.HOSPITAL API.props
+D:\2nd BigBang\UI\DDESIGN\API\BIGBANG API\HOSPITAL API\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.HOSPITAL API.props
+D:\2nd BigBang\UI\DDESIGN\API\BIGBANG API\HOSPITAL API\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.HOSPITAL API.props
+D:\2nd BigBang\UI\DDESIGN\API\BIGBANG API\HOSPITAL API\obj\Debug\net7.0\staticwebassets.pack.json
+D:\2nd BigBang\UI\DDESIGN\API\BIGBANG API\HOSPITAL API\obj\Debug\net7.0\staticwebassets.build.json
+D:\2nd BigBang\UI\DDESIGN\API\BIGBANG API\HOSPITAL API\obj\Debug\net7.0\staticwebassets.development.json
+D:\2nd BigBang\UI\DDESIGN\API\BIGBANG API\HOSPITAL API\obj\Debug\net7.0\scopedcss\bundle\HOSPITAL API.styles.css
+D:\2nd BigBang\UI\DDESIGN\API\BIGBANG API\HOSPITAL API\obj\Debug\net7.0\HOSPITAL API.csproj.CopyComplete
+D:\2nd BigBang\UI\DDESIGN\API\BIGBANG API\HOSPITAL API\obj\Debug\net7.0\HOSPITAL API.dll
+D:\2nd BigBang\UI\DDESIGN\API\BIGBANG API\HOSPITAL API\obj\Debug\net7.0\refint\HOSPITAL API.dll
+D:\2nd BigBang\UI\DDESIGN\API\BIGBANG API\HOSPITAL API\obj\Debug\net7.0\HOSPITAL API.pdb
+D:\2nd BigBang\UI\DDESIGN\API\BIGBANG API\HOSPITAL API\obj\Debug\net7.0\HOSPITAL API.genruntimeconfig.cache
+D:\2nd BigBang\UI\DDESIGN\API\BIGBANG API\HOSPITAL API\obj\Debug\net7.0\ref\HOSPITAL API.dll
